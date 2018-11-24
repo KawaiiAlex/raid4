@@ -1,0 +1,40 @@
+{
+  "name": "ochako",
+  "version": "1.0.0",
+  "description": "Bot discord, fait par Kawaii Alex",
+  "main": "index.js",
+  "scripts": {
+    "test": "ping"
+  },
+  "keywords": [
+    "ochako",
+    "discordbot",
+    "bot",
+    "discord",
+    "otaku",
+    "anime"
+  ],
+  "author": "Kawaii Alex",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.1.0",
+    "chalk": "^2.4.1",
+    "discord.js": "^11.4.2",
+    "fs": "0.0.1-security",
+    "google-translate-api": "^2.3.0",
+    "idiotic-api": "^0.2.11",
+    "kitsu.js": "^2.0.0",
+    "moment": "^2.22.2",
+    "moment-duration-format": "^2.2.2",
+    "ms": "^2.1.1",
+    "nekos.life": "^1.0.6",
+    "random-puppy": "^1.1.0",
+    "request": "^2.88.0",
+    "snekfetch": "^4.0.4",
+    "string-similarity": "^1.2.0",
+    "triggered-module-api": "^0.1.1",
+    "weather-js": "^2.0.0",
+    "youtube-search": "^1.1.1",
+    "ytdl-core": "^0.21.1"
+  }
+}
